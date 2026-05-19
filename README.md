@@ -31,7 +31,6 @@ class DiviJaiwanth:
         self.role        = "ML Engineer Intern @ Rewardsy"
         self.interests   = ["Computer Vision", "Generative AI", "RAG Systems",
                             "3D Art", "Graphic Design", "Full Stack Dev"]
-        self.wpm         = 100
         self.editor      = "Neovim"  # modal editors FTW
 
     def currently(self):
