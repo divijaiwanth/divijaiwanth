@@ -1,19 +1,12 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗   ██╗██╗    ██╗ █████╗ ██╗ ██╗    ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
-██╔══██╗██║██║   ██║██║    ██║██╔══██╗██║ ██║    ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
-██║  ██║██║██║   ██║██║    ██║███████║██║ ██║    ██║███████║██╔██╗ ██║   ██║   ███████║
-██║  ██║██║╚██╗ ██╔╝██║    ██║██╔══██║██║ ██║    ██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
-██████╔╝██║ ╚████╔╝ ██║    ██║██║  ██║██║ ██║    ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚═════╝ ╚═╝  ╚═══╝  ╚═╝    ╚═╝╚═╝  ╚═╝╚═╝ ╚═╝    ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=200&section=header&text=Divi%20Jaiwanth&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Builder%20&descAlignY=58&descSize=18&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-# `> Divi Jaiwanth` &nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=600&lines=ML+Engineer+%7C+Computer+Vision;Full+Stack+Developer+%7C+3D+Artist;AI+%26+Generative+Systems+Builder;IIT+Madras+%7C+MIT+Bengaluru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=false&width=600&lines=ML+Engineer+%7C+Computer+Vision;Full+Stack+Developer+%7C+3D+Artist;AI+%26+Generative+Systems+Builder;IIT+Madras+%7C+MIT+Bengaluru)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,7 +42,7 @@ class DiviJaiwanth:
         }
 
     def fun_fact(self):
-        return "I love modal editors — Vim motions are muscle memory 🎯"
+        return ""I can Type over 100 WPM"
 ```
 
 ---
@@ -92,12 +85,12 @@ End-to-end RAG pipeline ingesting YouTube transcripts for semantic Q&A over long
 </td>
 <td width="50%">
 
-### 🎨 [QR Diffusion](https://github.com/divijaiwanth)
-**AI-Styled QR Code Generator**
+### 🎓 [Placement Portal](https://github.com/divijaiwanth/Full-Stack-Placement-Portal)
+**Full-Stack Campus Recruitment System**
 
-`Stable Diffusion` · `ControlNet` · `PyTorch` · `FastAPI` · `Firebase`
+`Flask` · `SQLAlchemy` · `SQLite` · `Jinja2` · `Bootstrap` · `Python`
 
-Custom QR generation with artistic styling. **30% faster generation**, 25% faster retrieval, 40% fewer failures in production.
+Campus placement portal with **3-tier role system** — Admin, Company & Student. Companies post drives, students apply, admin approves. Session-based auth with route-level access control.
 
 </td>
 </tr>
@@ -187,13 +180,7 @@ Custom QR generation with artistic styling. **30% faster generation**, 25% faste
 
 <div align="center">
 
-### 💬 &nbsp;_"The best code is the code that doesn't exist — but when it must, make it elegant."_
-
-<br>
-
-![Visitor Count](https://profile-counter.glitch.me/divijaiwanth/count.svg)
-
-<br>
+### 💬 &nbsp;_"The best code is the code that doesn't exist - but when it must, make it elegant."_
 
 ⭐ **If you find my work interesting, drop a star on a repo!** ⭐
 
