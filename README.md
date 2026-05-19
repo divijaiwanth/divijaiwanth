@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=200&section=header&text=Divi%20Jaiwanth&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20Builder%20&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](./github-header-banner.png)
 
 </div>
 
