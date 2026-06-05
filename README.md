@@ -78,6 +78,10 @@ Dual-layer AI agent with persistent user memory + keyword-optimized RAG. Fully l
 **Job Intelligence & Company Research Tool**
 `Python` · `Ollama` · `Pydantic` · `BeautifulSoup4` · `Firecrawl` · `Serper API`
 Autonomous AI pipeline that scrapes company sites, matches resumes to JDs, and aggregates DSA/System Design interview questions from Reddit, Glassdoor, and LeetCode — fully local via Ollama.
+
+</td>
+<td width="50%">
+    
 **Full-Stack Campus Recruitment System**
 
 `Flask` · `SQLAlchemy` · `SQLite` · `Jinja2` · `Bootstrap` · `Python`
