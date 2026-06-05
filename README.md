@@ -74,17 +74,10 @@ Dual-layer AI agent with persistent user memory + keyword-optimized RAG. Fully l
 <tr>
 <td width="50%">
 
-### 📺 [RAGTube](https://github.com/divijaiwanth)
-**YouTube RAG System**
-
-`LangChain` · `FAISS` · `HuggingFace` · `Ollama` · `Streamlit`
-
-End-to-end RAG pipeline ingesting YouTube transcripts for semantic Q&A over long-form video — fully local with Mistral via Ollama.
-
-</td>
-<td width="50%">
-
-### 🎓 [Placement Portal](https://github.com/divijaiwanth/Full-Stack-Placement-Portal)
+### 🔍 [Recon](https://github.com/divijaiwanth/Recon-Job_Enumeration_Tool)
+**Job Intelligence & Company Research Tool**
+`Python` · `Ollama` · `Pydantic` · `BeautifulSoup4` · `Firecrawl` · `Serper API`
+Autonomous AI pipeline that scrapes company sites, matches resumes to JDs, and aggregates DSA/System Design interview questions from Reddit, Glassdoor, and LeetCode — fully local via Ollama.
 **Full-Stack Campus Recruitment System**
 
 `Flask` · `SQLAlchemy` · `SQLite` · `Jinja2` · `Bootstrap` · `Python`
