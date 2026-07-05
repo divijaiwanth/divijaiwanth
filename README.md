@@ -48,50 +48,38 @@ class DiviJaiwanth:
 
 ## ⚡ Featured Projects
 
+<h2>Featured Projects</h2>
+
 <table>
-<tr>
-<td width="50%">
-
-### 🔮 [Lumora](https://github.com/divijaiwanth)
-**Zero-Shot Event Face Recognition Pipeline**
-
-`RetinaFace` · `ArcFace` · `FAISS` · `OpenCV` · `Streamlit`
-
-Production-grade face recognition for dense event photography. 512-dim embeddings, sub-second cosine search across thousands of photos — **no training data required per event.**
-
-</td>
-<td width="50%">
-
-### 🤖 [Marot](https://github.com/divijaiwanth)
-**Autonomous Discord Marketing Agent**
-
-`Python` · `Mistral` · `Ollama` · `Mem0` · `RAG` · `discord.py`
-
-Dual-layer AI agent with persistent user memory + keyword-optimized RAG. Fully local LLM stack — **zero external API calls, zero cost inference.**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [Recon](https://github.com/divijaiwanth/Recon-Job_Enumeration_Tool)
-**Job Intelligence & Company Research Tool**
-`Python` · `Ollama` · `Pydantic` · `BeautifulSoup4` · `Firecrawl` · `Serper API`
-Autonomous AI pipeline that scrapes company sites, matches resumes to JDs, and aggregates DSA/System Design interview questions from Reddit, Glassdoor, and LeetCode — fully local via Ollama.
-
-</td>
-<td width="50%">
-    
-**Full-Stack Campus Recruitment System**
-
-`Flask` · `SQLAlchemy` · `SQLite` · `Jinja2` · `Bootstrap` · `Python`
-
-Campus placement portal with **3-tier role system** — Admin, Company & Student. Companies post drives, students apply, admin approves. Session-based auth with route-level access control.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/divijaiwanth/SpeedTube">SpeedTube</a></h3>
+      <strong>YouTube Video Intelligence & Advanced RAG Chat</strong><br><br>
+      <code>Python</code> · <code>FastAPI</code> · <code>React</code> · <code>LangChain</code> · <code>Groq</code> · <code>FAISS</code> · <code>Hybrid Search</code><br><br>
+      Production-grade RAG system that lets you ask anything about any YouTube video — instantly. Uses advanced techniques like hybrid search (FAISS + BM25), HyDE, cross-encoder reranking, parent-child chunking, rate limiting, Redis caching, and production guardrails. Built with FastAPI backend + React frontend.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/divijaiwanth">Marot</a></h3>
+      <strong>Autonomous Discord Marketing Agent</strong><br><br>
+      <code>Python</code> · <code>Mistral</code> · <code>Ollama</code> · <code>Mem0</code> · <code>RAG</code> · <code>discord.py</code><br><br>
+      Dual-layer AI agent with persistent user memory + keyword-optimized RAG. Fully local LLM stack — <strong>zero external API calls, zero cost inference.</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/divijaiwanth/Recon-Job_Enumeration_Tool">Recon</a></h3>
+      <strong>Job Intelligence & Company Research Tool</strong><br><br>
+      <code>Python</code> · <code>Ollama</code> · <code>Pydantic</code> · <code>BeautifulSoup4</code> · <code>Firecrawl</code> · <code>Serper API</code><br><br>
+      Autonomous AI pipeline that scrapes company sites, matches resumes to JDs, and aggregates DSA/System Design interview questions from Reddit, Glassdoor, and LeetCode — fully local via Ollama.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔮 <a href="https://github.com/divijaiwanth">Lumora</a></h3>
+      <strong>Zero-Shot Event Face Recognition Pipeline</strong><br><br>
+      <code>RetinaFace</code> · <code>ArcFace</code> · <code>FAISS</code> · <code>OpenCV</code> · <code>Streamlit</code><br><br>
+      Production-grade face recognition for dense event photography. 512-dim embeddings, sub-second cosine search across thousands of photos — <strong>no training data required per event.</strong>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 🛠 Tech Stack
